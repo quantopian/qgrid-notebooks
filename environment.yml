@@ -1,0 +1,5 @@
+name: qgrid-environment
+
+dependencies:
+  - qgrid=1.0.0a11=py36ha46715e_0
+
