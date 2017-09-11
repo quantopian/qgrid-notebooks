@@ -1,5 +1,9 @@
 name: qgrid-environment
-
+channels:
+  - tim_shawver/label/dev
+  - conda-forge
+  - tim_shawver
+  - defaults
 dependencies:
   - qgrid=1.0.0a11=py36ha46715e_0
 
