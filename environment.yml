@@ -5,6 +5,6 @@ channels:
   - tim_shawver
   - defaults
 dependencies:
-  - qgrid=1.0.0b3
+  - qgrid=1.0.0b7
   - pandas-datareader>=0.5.0
 
