@@ -1,11 +1,9 @@
 name: qgrid-environment
 channels:
-  - tim_shawver
   - conda-forge
-  - tim_shawver
   - defaults
 dependencies:
-  - qgrid=1.0.0
+  - qgrid
   - pandas-datareader>=0.5.0
   - matplotlib>=2.1.1
 
