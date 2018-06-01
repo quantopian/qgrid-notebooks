@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jupyter labextension install @jupyter-widgets/jupyterlab-manager qgrid
+jupyter labextension install qgrid
