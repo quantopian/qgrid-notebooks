@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - jupyterlab
   - qgrid
   - pandas-datareader>=0.5.0
   - matplotlib>=2.1.1
